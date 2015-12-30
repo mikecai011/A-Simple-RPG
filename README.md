@@ -15,11 +15,11 @@ However, all parts were cross-examinated, and corrections were made by both of u
 
 
 The following images were obtained from internet and are cited:
--Dark Room0001
--Arena
--Key
--map01
--Menu Background
--Start Button
--Furui Ningyou
+"Dark Room0001"
+"Arena"
+"Key"
+"map01"
+"Menu Background"
+"Start Button"
+"Furui Ningyou"
 ***note: "map01_collision.png" was edited by me from the original image "map01.png". I added all map restriction lines in red colour.
